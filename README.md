@@ -1,25 +1,23 @@
 <h1 align="center">Hello there 👋, I'm Juan Galindo</h1>
 <h3 align="center">A Physicist & indie Game Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juangdanilo&label=Hi,%20Visitor&color=0e75b6&style=plastic" alt="juangdanilo" /> </p>
-
 ![Visitor Count](https://profile-counter.glitch.me/juangdanilo/count.svg)
 
-- 🔭 I’m currently working on **My Own Game**
+- 🔭 I’m currently working on **My thesis degree and my own game**
 
-- 🌱 I’m currently learning **C++, Unreal Engine & Blender**
+- 🌱 I’m currently learning: **C++, Unreal Engine & Blender**
 
-- 👨‍💻 All of my projects are available at [https://gdanilo.com/portfolio](https://gdanilo.com/portfolio)
+- 👨‍💻 All of my projects are available at (Under Construction :feelsgood: ): [https://gdanilo.com/portfolio](https://gdanilo.com/portfolio)
 
-- 📝 I regularly write articles on [https://gdanilo.com/blog](https://gdanilo.com/blog)
+- 📝 I regularly write articles on: [https://gdanilo.com/blog](https://gdanilo.com/blog)
 
 - 💬 Ask me about **Physics and Mathematics**
 
-- 📫 How to reach me **contact@gdanilo.com**
+- 📫 You can reach me in **contact@gdanilo.com**
 
 - 📄 Know about my experiences [https://gdanilo.com/resume](https://gdanilo.com/resume)
 
-- ⚡ Fun fact **For everything there is always a SpongeBob reference**
+- ⚡ Fun fact **For everything there is always a SpongeBob reference** :full_moon:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

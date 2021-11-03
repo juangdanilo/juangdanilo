@@ -1,9 +1,9 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Juan Galindo</h1>
+<h1 align="center">Hello there 👋, I'm Juan Galindo</h1>
 <h3 align="center">A Physicist & indie Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juangdanilo&label=Hi,%20Visitor&color=0e75b6&style=plastic" alt="juangdanilo" /> </p>
+
+![Visitor Count](https://profile-counter.glitch.me/juangdanilo/count.svg)
 
 - 🔭 I’m currently working on **My Own Game**
 

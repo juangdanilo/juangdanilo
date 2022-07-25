@@ -11,13 +11,13 @@
 
 - 📝 I regularly write articles on: [https://gdanilo.com/blog](https://gdanilo.com/blog)
 
-- 💬 Ask me about **Physics and Mathematics**
+- 💬 Ask me about: **Physics and Mathematics**
 
-- 📫 You can reach me in **contact@gdanilo.com**
+- 📫 You can reach me in: **contact@gdanilo.com**
 
 - 📄 Know about my experiences [https://gdanilo.com/resume](https://gdanilo.com/resume)
 
-- ⚡ Fun fact **For everything there is always a SpongeBob reference** :full_moon:
+- ⚡ Fun fact: **For everything there is always a SpongeBob reference** :full_moon:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

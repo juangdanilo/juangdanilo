@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **C++, Unreal Engine & Blender**
 
-- 👨‍💻 All of my projects are available at (Under Construction :feelsgood: ): [https://gdanilo.com/portfolio](https://gdanilo.com/portfolio)
+- 👨‍💻 All of my projects are available at: [https://gdanilo.itch.io/](https://gdanilo.com/portfolio)
 
 - 📝 I regularly write articles on: [https://gdanilo.com/blog](https://gdanilo.com/blog)
 

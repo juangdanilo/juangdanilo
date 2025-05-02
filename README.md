@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Galindo
 ====================================================================================================================================
 
-Game Developer | .Net | C# | C++ | Python
+Mobile Developer | .Net | C# | Flutter | C++ | Python
 -----------------------------------------
 
 I'm a passionate Game Developer and physicist, currently looking for new oportunities in the software development world.

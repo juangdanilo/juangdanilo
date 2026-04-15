@@ -1,26 +1,82 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan Galindo
-====================================================================================================================================
+<h1 align="center">
+Hi 👋 I'm Juan Galindo
+</h1>
 
-Mobile Developer | .Net | C# | Flutter | Python
------------------------------------------
+<h3 align="center">
+Mobile & Game Developer | .NET | C# | Unity | Flutter
+</h3>
 
-I'm a passionate Game Developer and physicist, currently looking for new oportunities in the software development world.
-
-* 🌍  I'm based in Panama
-* 🖥️  See my portfolio at [Gdanilo.com](http://gdanilo.com)
-* ✉️  You can contact me at [contact@gdanilo.com](mailto:contact@gdanilo.com)
-* 🚀  I'm currently working on [My Games](https://play.google.com/store/apps/dev?id=5096522895656793021)
-* 🧠  I'm learning Unreal Engine 5
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+<p align="center">
+Building interactive experiences, scalable systems, and games that people actually enjoy.
 </p>
 
+---
 
-### Socials
+## 🧠 About Me
 
-<p align="left"> <a href="https://www.github.com/juangdanilo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gdanilo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/_gdanilo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+I'm a **Game Developer and Physicist** with a strong focus on **mobile development and .NET ecosystems**.
 
+I enjoy designing systems that feel *responsive, reactive, and fun* — whether it's a game mechanic, a UI flow, or a backend service.
+
+- 🎮 Currently building: **Mobile Games & Interactive Experiences**
+- 🚀 Exploring: **Unreal Engine 5 & advanced game architecture**
+- 🧩 Interested in: **Reactive systems, performance, and clean architecture**
+- 🌍 Based in **Panama**
+
+---
+
+## 🔗 Portfolio & Contact
+
+- 🌐 Portfolio → [gdanilo.com](http://gdanilo.com/portfolio)
+- 📱 Games → [Google Play Developer Page](https://play.google.com/store/apps/dev?id=5096522895656793021)
+- ✉️ Email → contact@gdanilo.com
+- 💼 LinkedIn → https://www.linkedin.com/in/juangdanilo
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+C# • C++ • Kotlin • Python • Swift
+</p>
+
+### ⚙️ Frameworks & Tools
+<p>
+.NET • Flutter • Unity • Git • AWS
+</p>
+
+### 💻 Environment
+<p>
+Linux • macOS • VS Code • Neovim • Xcode
+</p>
+
+---
+
+## 🎯 What I Bring
+
+✔ Strong foundation in **C# and .NET architecture**  
+✔ Experience building **mobile apps and games**  
+✔ Focus on **performance and scalability**  
+✔ Clean, maintainable, and **production-ready code**  
+✔ Ability to bridge **game development and software engineering**
+
+---
+
+## 🚧 Current Focus
+
+- 🧠 Learning **Unreal Engine 5 (C++ pipeline)**
+- 🎮 Improving **game feel & juice systems**
+- ⚡ Exploring **reactive programming patterns in games**
+- 🏗️ Building portfolio projects to land a **full-stack / game dev role**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=juangdanilo&show_icons=true&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juangdanilo&layout=compact&hide_border=true" height="150"/>
+</p>
+
+---

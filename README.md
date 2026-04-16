@@ -36,21 +36,28 @@ I enjoy designing systems that feel *responsive, reactive, and fun* — whether 
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-<p>
-C# • C++ • Kotlin • Python • Swift
-</p>
+## 🛠️ Tech Stack
 
-### ⚙️ Frameworks & Tools
-<p>
-.NET • Flutter • Unity • Git • AWS
-</p>
+### 🎮 Game Development
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 
-### 💻 Environment
-<p>
-Linux • macOS • VS Code • Neovim • Xcode
-</p>
+### 📱 Mobile Development
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 
+### 🧩 Backend & Systems
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+### ⚙️ Tools & Environment
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
 ---
 
 ## 🎯 What I Bring

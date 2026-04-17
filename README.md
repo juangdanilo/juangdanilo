@@ -64,6 +64,7 @@ I enjoy designing systems that feel *responsive, reactive, and fun* — whether 
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
+
 ---
 
 ## 🎯 What I Bring
@@ -91,5 +92,3 @@ I enjoy designing systems that feel *responsive, reactive, and fun* — whether 
 <img src="https://github-readme-stats.vercel.app/api?username=juangdanilo&show_icons=true&hide_border=true" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juangdanilo&layout=compact&hide_border=true" height="150"/>
 </p>
-
----

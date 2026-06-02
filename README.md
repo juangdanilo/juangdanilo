@@ -3,7 +3,7 @@ Hi 👋 I'm Juan Galindo
 </h1>
 
 <h3 align="center">
-Mobile & Game Developer | .NET | C# | Unity | Flutter
+Mobile & Game Developer | .NET | C# | Unity | Flutter | Kotlin
 </h3>
 
 <p align="center">
